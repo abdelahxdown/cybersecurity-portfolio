@@ -1,19 +1,20 @@
-# 👨‍💻 Abdellah Yahyaoui – Cybersecurity Student
+Lab & Research
+Étudiant en cybersécurité. Je ne me contente pas de la théorie : je build des environnements, je scanne et je documente ce que je trouve.
 
-## 🎯 Objective
-Aspiring cybersecurity professional focused on network security and penetration testing.
+--Stack Technique--
+Networking : En préparation du CCNA (Focus sur le hardening des équipements Cisco).
 
-## 🛠️ Skills
-- Network fundamentals (CCNA in progress)
-- Vulnerability scanning (Nmap)
-- Web security testing (Burp Suite, OWASP)
-- Basic scripting (Python, Bash)
+Offensif : Reconnaissance avec Nmap, fuzzing Web, tests de vulnérabilités.
 
-## 📂 Projects
-🚧 Coming soon:
-- Vulnerability Assessment Lab
-- Web Pentesting Lab
-- Secure Network Setup
+Scripting : Automatisation de tâches simples en Python / Bash.
 
-## 📫 Contact
-- LinkedIn: (add your link)
+OS : Confortable sous Linux (Debian/Kali) et administration Windows.
+
+--Labs & Activité--
+vulnerability-assessment-lab : Analyse de services sur machines locales et détection de mauvaises configurations (Nmap).
+
+Web-Pentest : (En cours) Tests sur machines volontairement vulnérables (OWASP Top 10).
+
+Home-Lab : Setup de réseaux sécurisés sous VM.
+
+
